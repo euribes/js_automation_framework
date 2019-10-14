@@ -1,0 +1,6 @@
+version: '3'
+
+services:
+  auto:
+    image: auto:10
+    build: .
